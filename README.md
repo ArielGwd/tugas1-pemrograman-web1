@@ -1,4 +1,4 @@
-# 〔 Tugas 1 〕Website bertema CV
+# Tugas 1 - Website bertema CV
 
 ## Features
 - dark mode
