@@ -4,4 +4,4 @@
 - dark mode
 
 ## Link Preview
-Website bertema CV - https://arielgwd.github.io/dino_run_js/
+Website bertema CV - https://arielgwd.github.io/tugas1-pemrograman-web1/
